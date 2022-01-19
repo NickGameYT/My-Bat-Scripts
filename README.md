@@ -8,6 +8,7 @@ Batch scripts for windows :)
 
 Downloads:
 Activation-table-off.bat    --- English language 
+
 Activation-table-off-RU.bat --- Russian language 
 
 
@@ -19,7 +20,10 @@ Activation-table-off-RU.bat --- Russian language
 2. В разработке...........
 3. В разработе................
 
+Загрузки:
+Activation-table-off.bat    --- Английский язык
 
+Activation-table-off-RU.bat --- Русский язык
 
 
 
