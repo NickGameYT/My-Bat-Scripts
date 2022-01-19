@@ -11,10 +11,10 @@ Activation-table-off.bat    --- English language
 
 Activation-table-off-RU.bat --- Russian language 
 
+ 
+# Attention! be sure to open as an administrator, otherwise nothing will work
 
-#Attention! be sure to open as an administrator, otherwise nothing will work
-
-#Preview:
+# Preview:
 
 Before
 ![image](https://user-images.githubusercontent.com/46247169/150176103-371f68b7-135d-4ebb-93e8-a794a190430d.png)
