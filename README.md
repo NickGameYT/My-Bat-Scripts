@@ -1,2 +1,2 @@
-# My-Bat-Scripts
+# My simple Batch Scripts 
 Batch scripts for windows :)
